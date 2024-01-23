@@ -12,3 +12,4 @@ H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\refint\VerificarNumeroPrimo
 H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.pdb
 H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.genruntimeconfig.cache
 H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\ref\VerificarNumeroPrimo.dll
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.sourcelink.json

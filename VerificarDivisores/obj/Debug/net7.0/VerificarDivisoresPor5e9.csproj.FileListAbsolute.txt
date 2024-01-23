@@ -1,0 +1,15 @@
+H:\GitHub\Exercicios C#\VerificarDivisores\bin\Debug\net7.0\VerificarDivisoresPor5e9.exe
+H:\GitHub\Exercicios C#\VerificarDivisores\bin\Debug\net7.0\VerificarDivisoresPor5e9.deps.json
+H:\GitHub\Exercicios C#\VerificarDivisores\bin\Debug\net7.0\VerificarDivisoresPor5e9.runtimeconfig.json
+H:\GitHub\Exercicios C#\VerificarDivisores\bin\Debug\net7.0\VerificarDivisoresPor5e9.dll
+H:\GitHub\Exercicios C#\VerificarDivisores\bin\Debug\net7.0\VerificarDivisoresPor5e9.pdb
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\VerificarDivisoresPor5e9.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\VerificarDivisoresPor5e9.AssemblyInfoInputs.cache
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\VerificarDivisoresPor5e9.AssemblyInfo.cs
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\VerificarDivisoresPor5e9.csproj.CoreCompileInputs.cache
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\VerificarDivisoresPor5e9.sourcelink.json
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\VerificarDivisoresPor5e9.dll
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\refint\VerificarDivisoresPor5e9.dll
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\VerificarDivisoresPor5e9.pdb
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\VerificarDivisoresPor5e9.genruntimeconfig.cache
+H:\GitHub\Exercicios C#\VerificarDivisores\obj\Debug\net7.0\ref\VerificarDivisoresPor5e9.dll
