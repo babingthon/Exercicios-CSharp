@@ -1,0 +1,14 @@
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.AssemblyInfoInputs.cache
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.AssemblyInfo.cs
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.csproj.CoreCompileInputs.cache
+H:\GitHub\Exercicios C#\NumeroPrimo\bin\Debug\net7.0\VerificarNumeroPrimo.exe
+H:\GitHub\Exercicios C#\NumeroPrimo\bin\Debug\net7.0\VerificarNumeroPrimo.deps.json
+H:\GitHub\Exercicios C#\NumeroPrimo\bin\Debug\net7.0\VerificarNumeroPrimo.runtimeconfig.json
+H:\GitHub\Exercicios C#\NumeroPrimo\bin\Debug\net7.0\VerificarNumeroPrimo.dll
+H:\GitHub\Exercicios C#\NumeroPrimo\bin\Debug\net7.0\VerificarNumeroPrimo.pdb
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.dll
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\refint\VerificarNumeroPrimo.dll
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.pdb
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\VerificarNumeroPrimo.genruntimeconfig.cache
+H:\GitHub\Exercicios C#\NumeroPrimo\obj\Debug\net7.0\ref\VerificarNumeroPrimo.dll
