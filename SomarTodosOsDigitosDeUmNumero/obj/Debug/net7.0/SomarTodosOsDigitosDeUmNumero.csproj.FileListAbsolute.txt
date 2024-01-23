@@ -1,0 +1,15 @@
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\bin\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.exe
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\bin\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.deps.json
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\bin\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.runtimeconfig.json
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\bin\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.dll
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\bin\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.pdb
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.AssemblyInfoInputs.cache
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.AssemblyInfo.cs
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.csproj.CoreCompileInputs.cache
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.sourcelink.json
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.dll
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\refint\SomarTodosOsDigitosDeUmNumero.dll
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.pdb
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\SomarTodosOsDigitosDeUmNumero.genruntimeconfig.cache
+H:\GitHub\Exercicios C#\SomarTodosOsDigitosDeUmNumero\obj\Debug\net7.0\ref\SomarTodosOsDigitosDeUmNumero.dll
