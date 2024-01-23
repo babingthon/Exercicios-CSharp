@@ -1,0 +1,15 @@
+H:\GitHub\Exercicios C#\VerificarIdade\bin\Debug\net7.0\VerificarIdade.exe
+H:\GitHub\Exercicios C#\VerificarIdade\bin\Debug\net7.0\VerificarIdade.deps.json
+H:\GitHub\Exercicios C#\VerificarIdade\bin\Debug\net7.0\VerificarIdade.runtimeconfig.json
+H:\GitHub\Exercicios C#\VerificarIdade\bin\Debug\net7.0\VerificarIdade.dll
+H:\GitHub\Exercicios C#\VerificarIdade\bin\Debug\net7.0\VerificarIdade.pdb
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\VerificarIdade.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\VerificarIdade.AssemblyInfoInputs.cache
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\VerificarIdade.AssemblyInfo.cs
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\VerificarIdade.csproj.CoreCompileInputs.cache
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\VerificarIdade.sourcelink.json
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\VerificarIdade.dll
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\refint\VerificarIdade.dll
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\VerificarIdade.pdb
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\VerificarIdade.genruntimeconfig.cache
+H:\GitHub\Exercicios C#\VerificarIdade\obj\Debug\net7.0\ref\VerificarIdade.dll
