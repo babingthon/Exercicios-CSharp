@@ -1,0 +1,15 @@
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\bin\Debug\net7.0\VerificarNumeroParOuImpar.exe
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\bin\Debug\net7.0\VerificarNumeroParOuImpar.deps.json
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\bin\Debug\net7.0\VerificarNumeroParOuImpar.runtimeconfig.json
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\bin\Debug\net7.0\VerificarNumeroParOuImpar.dll
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\bin\Debug\net7.0\VerificarNumeroParOuImpar.pdb
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\VerificarNumeroParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\VerificarNumeroParOuImpar.AssemblyInfoInputs.cache
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\VerificarNumeroParOuImpar.AssemblyInfo.cs
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\VerificarNumeroParOuImpar.csproj.CoreCompileInputs.cache
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\VerificarNumeroParOuImpar.sourcelink.json
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\VerificarNumeroParOuImpar.dll
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\refint\VerificarNumeroParOuImpar.dll
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\VerificarNumeroParOuImpar.pdb
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\VerificarNumeroParOuImpar.genruntimeconfig.cache
+H:\GitHub\Exercicios C#\VerificarNumeroParOuImpar\obj\Debug\net7.0\ref\VerificarNumeroParOuImpar.dll

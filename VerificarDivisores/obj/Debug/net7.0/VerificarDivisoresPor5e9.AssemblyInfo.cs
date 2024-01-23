@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VerificarDivisoresPor5e9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdcf2c101300bd064eb6fca0cd68c50c582f8449")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77d894f66cd778e921526297b335bafb0633f32b")]
 [assembly: System.Reflection.AssemblyProductAttribute("VerificarDivisoresPor5e9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VerificarDivisoresPor5e9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerificarNumeroPrimo", "NumeroPrimo\VerificarNumeroPrimo.csproj", "{9780ED8F-5F8D-4E51-917B-49B7BBF747E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificarDivisoresPor5e9", "VerificarDivisores\VerificarDivisoresPor5e9.csproj", "{BE57BFDB-4850-46FF-A570-88A560D57C75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerificarDivisoresPor5e9", "VerificarDivisores\VerificarDivisoresPor5e9.csproj", "{BE57BFDB-4850-46FF-A570-88A560D57C75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificarNumeroParOuImpar", "VerificarNumeroParOuImpar\VerificarNumeroParOuImpar.csproj", "{B56DA888-18C5-4B36-8057-E321493DBDE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BE57BFDB-4850-46FF-A570-88A560D57C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE57BFDB-4850-46FF-A570-88A560D57C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE57BFDB-4850-46FF-A570-88A560D57C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56DA888-18C5-4B36-8057-E321493DBDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56DA888-18C5-4B36-8057-E321493DBDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56DA888-18C5-4B36-8057-E321493DBDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56DA888-18C5-4B36-8057-E321493DBDE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
