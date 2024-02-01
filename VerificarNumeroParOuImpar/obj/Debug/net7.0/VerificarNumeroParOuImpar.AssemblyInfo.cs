@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VerificarNumeroParOuImpar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af93775bd276da812c53915f339e8cc4247f93e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+146ce0a448716b478eac17ecc85ca167f936e040")]
 [assembly: System.Reflection.AssemblyProductAttribute("VerificarNumeroParOuImpar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VerificarNumeroParOuImpar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

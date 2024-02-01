@@ -1,0 +1,17 @@
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\bin\Debug\net7.0-windows\NumeroEhPerfeito.exe
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\bin\Debug\net7.0-windows\NumeroEhPerfeito.deps.json
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\bin\Debug\net7.0-windows\NumeroEhPerfeito.runtimeconfig.json
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\bin\Debug\net7.0-windows\NumeroEhPerfeito.dll
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\bin\Debug\net7.0-windows\NumeroEhPerfeito.pdb
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.Form1.resources
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.csproj.GenerateResource.cache
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.AssemblyInfoInputs.cache
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.AssemblyInfo.cs
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.csproj.CoreCompileInputs.cache
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.sourcelink.json
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.dll
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\refint\NumeroEhPerfeito.dll
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.pdb
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\NumeroEhPerfeito.genruntimeconfig.cache
+H:\GitHub\Exercicios C#\NumeroEhPerfeito\obj\Debug\net7.0-windows\ref\NumeroEhPerfeito.dll

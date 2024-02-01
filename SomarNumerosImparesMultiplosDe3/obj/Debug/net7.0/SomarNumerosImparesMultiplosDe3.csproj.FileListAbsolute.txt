@@ -1,0 +1,15 @@
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\bin\Debug\net7.0\SomarNumerosImparesMultiplosDe3.exe
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\bin\Debug\net7.0\SomarNumerosImparesMultiplosDe3.deps.json
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\bin\Debug\net7.0\SomarNumerosImparesMultiplosDe3.runtimeconfig.json
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\bin\Debug\net7.0\SomarNumerosImparesMultiplosDe3.dll
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\bin\Debug\net7.0\SomarNumerosImparesMultiplosDe3.pdb
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\SomarNumerosImparesMultiplosDe3.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\SomarNumerosImparesMultiplosDe3.AssemblyInfoInputs.cache
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\SomarNumerosImparesMultiplosDe3.AssemblyInfo.cs
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\SomarNumerosImparesMultiplosDe3.csproj.CoreCompileInputs.cache
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\SomarNumerosImparesMultiplosDe3.sourcelink.json
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\SomarNumerosImparesMultiplosDe3.dll
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\refint\SomarNumerosImparesMultiplosDe3.dll
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\SomarNumerosImparesMultiplosDe3.pdb
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\SomarNumerosImparesMultiplosDe3.genruntimeconfig.cache
+H:\GitHub\Exercicios C#\SomarNumerosImparesMultiplosDe3\obj\Debug\net7.0\ref\SomarNumerosImparesMultiplosDe3.dll
